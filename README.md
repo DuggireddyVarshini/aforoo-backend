@@ -43,7 +43,7 @@ aforoo-backend/
 ## 🚀 Setup Instructions
 
 ### 1. Clone Repository
-git clone https://github.com/your-username/aforoo-backend.git
+git clone https://github.com/DuggireddyVarshini/aforoo-backend.git
 cd aforoo-backend
 
 ### 2. Run with Docker
